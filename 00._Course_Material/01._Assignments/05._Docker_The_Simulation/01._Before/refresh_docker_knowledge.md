@@ -10,7 +10,7 @@ A treasure trove of resources to refresh your Docker knowledge.
 
 This task has been marked optional since some of you are confident in your Docker knowledge (based on the self-assessment survey). 
 
-The requirements are that this will help you get more confident in Docker as a concept and working with Docker files. Docker-compose isn't covered until next week.
+The requirements are that this will help you get more confident in Docker as a concept and working with Docker files. Docker compose isn't covered until next week.
 
 Some of you had nice introductory hands-on tutorials from last semester. Let me know if you want me to share Erik's with the entire class. 
 

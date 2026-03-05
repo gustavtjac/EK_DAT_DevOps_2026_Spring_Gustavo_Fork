@@ -8,7 +8,7 @@ Dockerize backend / frontend.
 
 ## Start Dockerization
 
-This assignment is for experimenting with how to Dockerize the language of your choosing. Create a new branch and play around with it. Next week you will build upon this task with `Docker-compose`.
+This assignment is for experimenting with how to Dockerize the language of your choosing. Create a new branch and play around with it. Next week you will build upon this task with `Docker compose`.
 
 Depending on if the frontend is served by the backend you might end up with 1 or 2 separate containers for the application.
 

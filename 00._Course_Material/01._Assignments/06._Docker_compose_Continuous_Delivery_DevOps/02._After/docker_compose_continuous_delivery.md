@@ -14,6 +14,6 @@ Set up Docker Compose for your project and implement continuous delivery.
 
 Based on the lecture look into how to achieve hot-reloading for your server for development. 
 
-Consider creating a separate setups for dev and prod for Dockerfiles and potentially docker-compose.
+Consider creating a separate setups for dev and prod for Dockerfiles and Docker compose.
 
 Consider how to securely load environment variables.

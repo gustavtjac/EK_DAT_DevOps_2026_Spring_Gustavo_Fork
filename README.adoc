@@ -297,43 +297,43 @@ Can understand simple Dockerfiles for different languages.
 | 6
 | March 5th
 a|
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/01._introduction.md[Introduction]
-Introduction
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/01._introduction.md[Introduction]
+// Introduction
 
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/02._docker-compose.md[Docker-compose]
-Docker-compose
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/02._docker_compose.md[Docker compose]
+Docker compose
 
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/03._hot_reload_in_docker.md[Live reload in Docker]
-Live reload in Docker
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/03._hot_reload_in_docker.md[Live reload in Docker]
+// Live reload in Docker
 
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/04._debug_docker_compose.md[Debug docker compose]
-Debug docker-compose
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/04._debug_docker_compose.md[Debug docker compose]
+// Debug docker compose
 
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/05._agile.md[Agile]
+// link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/05._agile.md[Agile]
 Agile
 
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/06._devops.md[DevOps]
+// link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/06._devops.md[DevOps]
 DevOps
 
-// link:00._Course_Material/02._Slides/06._Docker-compose_Continuous_Delivery_DevOps/07._continuous_delivery.md[Continuous Delivery]
+// link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/07._continuous_delivery.md[Continuous Delivery]
 Continuous Delivery
 a|
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/01._Before/100+_docker_concepts_you_need_to_know.md[100+ docker concepts you need to know]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/01._Before/100+_docker_concepts_you_need_to_know.md[100+ docker concepts you need to know]
 
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/01._Before/generate_cr_pat.md[Generate CR_PAT]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/01._Before/generate_cr_pat.md[Generate CR_PAT]
 
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/01._Before/read_devops_literature_I.md[Read DevOps Literature I]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/01._Before/read_devops_literature_I.md[Read DevOps Literature I]
 
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/01._Before/refresh_docker-compose.md[Refresh docker-compose]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/01._Before/refresh_docker_compose.md[Refresh docker-compose]
 a|
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/02._After/whoknows_variations_continuous_delivery.md[whoknows_variations Continuous Delivery]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/02._After/whoknows_variations_continuous_delivery.md[whoknows_variations Continuous Delivery]
 
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/02._After/workflow_strategies.md[Workflow strategies]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/02._After/workflow_strategies.md[Workflow strategies]
 
-link:00._Course_Material/01._Assignments/06._Docker-compose_Continuous_Delivery_DevOps/02._After/docker_compose_continuous_delivery.md[Docker Compose + Continuous Delivery]
+link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/02._After/docker_compose_continuous_delivery.md[Docker Compose + Continuous Delivery]
 
 a|
-Can argue for the benefit of using Docker-compose over Dockerfiles.
+Can argue for the benefit of using Docker compose over Dockerfiles.
 
 Understands various basic docker-compose.yml files.
 
