@@ -44,7 +44,7 @@ GROUP_REPOS = [
     "gitLinks": ["https://github.com/nasOps/MonkKnows"],
     "backend": "https://monkknows.dk",
     "frontend": "https://monkknows.dk",
-    "monitoring": "Postman",
+    "monitoring": "http://20.91.203.235:3000",
     "stack": ["Ruby", "Sinatra", "SQLite", "Nginx", "Azure VM", "Docker", "GitHub Actions", "Let's Encrypt"],
     "documentation": [],
     "sla": "",
