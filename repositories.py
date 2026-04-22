@@ -45,7 +45,7 @@ GROUP_REPOS = [
     "backend": "https://monkknows.dk",
     "frontend": "https://monkknows.dk",
     "monitoring": "http://20.91.203.235:3000",
-    "stack": ["Ruby", "Sinatra", "SQLite", "Nginx", "Azure VM", "Docker", "GitHub Actions", "Let's Encrypt"],
+    "stack": ["Ruby", "Sinatra", "PostgreSQL", "Nginx", "Azure VM", "Docker", "GitHub Actions", "Let's Encrypt", "Prometheus", "Grafana"],
     "documentation": [],
     "sla": "",
 },
