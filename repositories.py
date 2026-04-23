@@ -4,7 +4,7 @@ GROUP_REPOS = [
     "gitLinks": ["https://github.com/Gorillaerne/Devops_Gorillas"],
     "backend": "https://gorillahub.dk",
     "frontend": "https://gorillahub.dk",
-    "monitoring": "http://104.248.199.180:3000",
+    "monitoring": "https://monitor.gorillahub.dk",
     "stack": ["Go","Gorilla/Mux","JavaScript","HTML","CSS","Docker","Nginx"],
     "documentation": [],
     "sla": "",
